@@ -92,6 +92,8 @@ This handbook is designed for:
 * Stateful vs Stateless
 * Allow/Deny rules
 
+[Module 0 — Cloud Networking Fundamentals](./handbook/Part-00-Cloud-Networking-Fundamentals.md)
+
 ---
 
 # Module 1 — Azure Networking Basics
