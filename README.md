@@ -8,6 +8,19 @@
 
 ## 📖 About This Handbook
 
+
+Since our end goal is **Azure VM + AKS**, we don't need to make this a CCNA networking course. Instead, think of this as **"Networking for Cloud Engineers."**
+
+My goal would be:
+
+* Explain **why** each concept exists.
+* Avoid unnecessary theory.
+* Use real-world analogies.
+* Keep it practical.
+* Build intuition instead of memorization.
+
+---
+
 Many Azure networking resources assume you already understand computer networking.
 
 This handbook takes a different approach.
